@@ -1,0 +1,590 @@
+{
+    "response": {
+        "meta": {
+            "hits": 25493,
+            "time": 55,
+            "offset": 0
+        },
+        "docs": [{
+            "web_url": "http:\/\/www.nytimes.com\/2003\/04\/12\/world\/movie-couple-win-lawsuit-over-photos.html",
+            "snippet": "Catherine Zeta-Jones and Michael Douglas won damages today in a lawsuit against a celebrity magazine for having published unauthorized pictures of their wedding, but they lost an invasion of privacy claim that had been the concern of press freedom...",
+            "lead_paragraph": "Catherine Zeta-Jones and Michael Douglas won damages today in a lawsuit against a celebrity magazine for having published unauthorized pictures of their wedding, but they lost an invasion of privacy claim that had been the concern of press freedom advocates. The Hollywood couple contended that pictures in Hello! magazine of their wedding in New York in November 2000 invaded their privacy and undermined a contract for exclusive coverage they had signed with a rival fan magazine, OK!",
+            "abstract": "Actors Catherine Zeta-Jones and Michael Douglas win damages in suit against magazine Hello! for publishing unauthorized pictures of their Nov 2000 wedding, but lose invasion of privacy claim that worried press freedom advocates; British High Court Judge John Lindsay sets hearing on damages; couple had sold access to their wedding to rival fan magazine (S)",
+            "print_page": "5",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [],
+            "headline": {
+                "main": "Movie Couple Win Lawsuit Over Photos"
+            },
+            "keywords": [{
+                "name": "persons",
+                "value": "LINDSAY, JOHN"
+            }, {
+                "name": "persons",
+                "value": "DOUGLAS, MICHAEL"
+            }, {
+                "name": "persons",
+                "value": "ZETA-JONES, CATHERINE"
+            }, {
+                "name": "glocations",
+                "value": "GREAT BRITAIN"
+            }, {
+                "name": "organizations",
+                "value": "HELLO!"
+            }, {
+                "name": "subject",
+                "value": "WEDDINGS AND ENGAGEMENTS"
+            }, {
+                "name": "subject",
+                "value": "CELEBRITIES"
+            }, {
+                "name": "subject",
+                "value": "SUITS AND LITIGATION"
+            }, {
+                "name": "subject",
+                "value": "DECISIONS AND VERDICTS"
+            }, {
+                "name": "subject",
+                "value": "NEWS AND NEWS MEDIA"
+            }, {
+                "name": "subject",
+                "value": "PRIVACY"
+            }],
+            "pub_date": "2003-04-12T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "Foreign Desk",
+            "section_name": "World",
+            "subsection_name": null,
+            "byline": {
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Warren",
+                    "rank": 1,
+                    "lastname": "HOGE"
+                }],
+                "original": "By WARREN HOGE"
+            },
+            "type_of_material": "News",
+            "_id": "4fd23ec18eb7c8105d7d5b5c",
+            "word_count": 251,
+            "slideshow_credits": null
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/2003\/08\/17\/magazine\/the-nutty-marquesa.html",
+            "snippet": "The Marquesa de Varela is at home -- for a change -- in London. A trompe l'oeil peacock on the wall regards the woman in sweatpants with red hair and a not insignificant chest as she nervously paces this rather ordinary town house overgrown with...",
+            "lead_paragraph": "The Marquesa de Varela is at home -- for a change -- in London. A trompe l'oeil peacock on the wall regards the woman in sweatpants with red hair and a not insignificant chest as she nervously paces this rather ordinary town house overgrown with gilded throne chairs and embassy-foyer trimmings. Though she lives in the upper registers of less-fashionable Fulham, the marquesa has Prince Ernst of Hanover as a neighbor -- and doesn't hesitate to say so. She knows things like that, the marquesa. She has to in her line of work: the snaring of celebrities and royals for the pages of Hello! magazine, pornography for a certain caste that wishes it could reliably pronounce the word ''Gstaad.'' The marquesa is what is known in the trade as a celebrity wrangler. At least one of this species is on staff at every major magazine obliged to enter the matrix of celebrity journalism. A wrangler generally answers to ''West Coast bureau chief,'' ''special projects director'' or ''entertainment editor,'' but everywhere the job is the same: to corral these preening unicorns by any means possible. Years before InStyle and Us magazine came along, Hello! was locking up cover-worthy faces and exclusive exclamation-point interviews. (The difference, of course, was that the marquesa often presented a check for the privilege.) The weekly raised a bubbly toast to Lladr\u00f3-level schmaltz and Ruritanian excess in flashy scrapbook spreads with happy-pill headlines. Between ''The Wedding,'' ''The Baby,'' ''The Heartbreak'' and, inevitably, ''The Divorce'' -- the points of Hello!'s compass -- there was always an opulent new residence to behold, a flurry of designer clothes blowing around every hard-won featurette stamped with the quirky signature, ''Co-ordination: Marquesa de Varela Int. Ltd.''",
+            "abstract": "Profile of Marquesa de Varela, who helps arrange high-profile celebrity interviews for British magazine Hello!; photos (L) (Part 2 of 2-part magazine Fashions of the Times)",
+            "print_page": "86",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [],
+            "headline": {
+                "main": "The Nutty Marquesa"
+            },
+            "keywords": [{
+                "name": "persons",
+                "value": "VARELA, MARQUESA DE"
+            }, {
+                "name": "organizations",
+                "value": "HELLO!"
+            }, {
+                "name": "subject",
+                "value": "CELEBRITIES"
+            }],
+            "pub_date": "2003-08-17T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "Fashions of The Times Magazine",
+            "section_name": "Style; Magazine",
+            "subsection_name": null,
+            "byline": {
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Phoebe",
+                    "rank": 1,
+                    "lastname": "Eaton"
+                }],
+                "original": "By Phoebe Eaton"
+            },
+            "type_of_material": "News",
+            "_id": "4fd22f158eb7c8105d7bd18d",
+            "word_count": 3291,
+            "slideshow_credits": null
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/reuters\/2015\/10\/02\/technology\/02reuters-google-restructuring-alphabet.html",
+            "snippet": "Google Inc has morphed into Alphabet Inc.",
+            "lead_paragraph": "Google Inc has morphed into Alphabet Inc.",
+            "abstract": null,
+            "print_page": null,
+            "blog": [],
+            "source": "Reuters",
+            "multimedia": [],
+            "headline": {
+                "main": "Bye Bye Google, Hello Alphabet",
+                "print_headline": "Bye Bye Google, Hello Alphabet"
+            },
+            "keywords": [],
+            "pub_date": "2015-10-02T14:19:36Z",
+            "document_type": "article",
+            "news_desk": "None",
+            "section_name": "Technology",
+            "subsection_name": null,
+            "byline": {
+                "person": [],
+                "original": "By REUTERS",
+                "organization": "REUTERS"
+            },
+            "type_of_material": "News",
+            "_id": "560ecb3238f0d83e166ea987",
+            "word_count": "277",
+            "slideshow_credits": null
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/2012\/06\/25\/world\/asia\/in-a-troubled-country-still-time-for-high-society.html",
+            "snippet": "A glossy new magazine has opened a window into the lives of Pakistan\u2019s gilded elite, rekindling an old debate about their role.",
+            "lead_paragraph": "A glossy new magazine has opened a window into the lives of Pakistan\u2019s gilded elite, rekindling an old debate about their role.",
+            "abstract": "Memo From Pakistan; new magazine, Hello! Pakistan, opens a window into the lives of the country's gilded elite, offering an alternative to the negative news that is frequently covered there; so far, the magazine has struck a middle course between good works and glamour.",
+            "print_page": "8",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [{
+                "width": 190,
+                "url": "images\/2012\/06\/25\/world\/KARACHI\/KARACHI-thumbWide.jpg",
+                "height": 126,
+                "subtype": "wide",
+                "legacy": {
+                    "wide": "images\/2012\/06\/25\/world\/KARACHI\/KARACHI-thumbWide.jpg",
+                    "wideheight": "126",
+                    "widewidth": "190"
+                },
+                "type": "image"
+            }, {
+                "width": 600,
+                "url": "images\/2012\/06\/25\/world\/KARACHI\/KARACHI-articleLarge.jpg",
+                "height": 370,
+                "subtype": "xlarge",
+                "legacy": {
+                    "xlargewidth": "600",
+                    "xlarge": "images\/2012\/06\/25\/world\/KARACHI\/KARACHI-articleLarge.jpg",
+                    "xlargeheight": "370"
+                },
+                "type": "image"
+            }, {
+                "width": 75,
+                "url": "images\/2012\/06\/25\/world\/KARACHI\/KARACHI-thumbStandard.jpg",
+                "height": 75,
+                "subtype": "thumbnail",
+                "legacy": {
+                    "thumbnailheight": "75",
+                    "thumbnail": "images\/2012\/06\/25\/world\/KARACHI\/KARACHI-thumbStandard.jpg",
+                    "thumbnailwidth": "75"
+                },
+                "type": "image"
+            }],
+            "headline": {
+                "seo": "In a Troubled Country, Still Time for High Society",
+                "main": "In a Troubled Country, Still Time for High Society",
+                "kicker": "Memo From Pakistan",
+                "print_headline": "In Troubled Country, Peering Into the Lives of High Society",
+                "content_kicker": "Memo From Pakistan"
+            },
+            "keywords": [{
+                "rank": "1",
+                "is_major": "N",
+                "value": "Hello! Pakistan",
+                "name": "organizations"
+            }, {
+                "rank": "3",
+                "is_major": "Y",
+                "value": "Pakistan",
+                "name": "glocations"
+            }, {
+                "rank": "4",
+                "is_major": "Y",
+                "value": "Magazines",
+                "name": "subject"
+            }, {
+                "rank": "5",
+                "is_major": "N",
+                "value": "Fashion and Apparel",
+                "name": "subject"
+            }, {
+                "rank": "6",
+                "is_major": "N",
+                "value": "Hello!",
+                "name": "organizations"
+            }, {
+                "rank": "7",
+                "is_major": "N",
+                "value": "Karachi (Pakistan)",
+                "name": "glocations"
+            }],
+            "pub_date": "2012-06-25T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "Foreign",
+            "section_name": "World",
+            "subsection_name": "Asia Pacific",
+            "byline": {
+                "contributor": "",
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Declan",
+                    "rank": 1,
+                    "lastname": "WALSH"
+                }],
+                "original": "By DECLAN WALSH"
+            },
+            "type_of_material": "News",
+            "_id": "53f82d0838f0d835538dc7db",
+            "word_count": "1123",
+            "slideshow_credits": null
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/1983\/08\/14\/opinion\/hello-poverty-goodbye-economic-gains.html",
+            "snippet": "Two decades after the historic civil rights march on Washington, America's own march toward economic and social justice is not only stalled but pivoting backward.    Until 1980, enormous strides were made. Nearly 11 million Americans, including six...",
+            "lead_paragraph": "Two decades after the historic civil rights march on Washington, America's own march toward economic and social justice is not only stalled but pivoting backward. Until 1980, enormous strides were made. Nearly 11 million Americans, including six million children, had escaped the grasp of poverty, thanks largely to Federal assistance. Since 1981, however, that trend has has been tragically reversed.",
+            "abstract": null,
+            "print_page": "19",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [],
+            "headline": {
+                "main": "GOODBYE ECONOMIC GAINS",
+                "kicker": "HELLO POVERTY"
+            },
+            "keywords": [{
+                "name": "subject",
+                "value": "TERMS NOT AVAILABLE"
+            }],
+            "pub_date": "1983-08-14T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "Editorial Desk",
+            "section_name": "Opinion",
+            "subsection_name": null,
+            "byline": {
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "George",
+                    "rank": 1,
+                    "lastname": "Miller"
+                }],
+                "original": "By George Miller ; George Miller, Democratic Representative from California, is chairman of the Select Committee on Children, Youth and Families"
+            },
+            "type_of_material": "Op-Ed",
+            "_id": "4fd12f0e8eb7c8105d5faec4",
+            "word_count": 735,
+            "slideshow_credits": null
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/2015\/09\/20\/universal\/es\/hello-barbie-la-muneca-con-inteligencia-artificial.html",
+            "snippet": "La nueva Barbie trata de cumplir un sue\u00f1o eterno: convencer a los ni\u00f1os de que es una verdadera amiga. \u00bfQu\u00e9 suceder\u00e1 si le creen?",
+            "lead_paragraph": "La nueva Barbie trata de cumplir un sue\u00f1o eterno: convencer a los ni\u00f1os de que es una verdadera amiga. \u00bfQu\u00e9 suceder\u00e1 si le creen?",
+            "abstract": null,
+            "print_page": "44",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [{
+                "width": 190,
+                "url": "images\/2015\/09\/20\/magazine\/20barbie1_opener-copy\/20barbie1_opener-thumbWide.jpg",
+                "height": 126,
+                "subtype": "wide",
+                "legacy": {
+                    "wide": "images\/2015\/09\/20\/magazine\/20barbie1_opener-copy\/20barbie1_opener-thumbWide.jpg",
+                    "wideheight": "126",
+                    "widewidth": "190"
+                },
+                "type": "image"
+            }, {
+                "width": 600,
+                "url": "images\/2015\/09\/20\/magazine\/20barbie1_opener-copy\/20barbie1_opener-articleLarge.jpg",
+                "height": 440,
+                "subtype": "xlarge",
+                "legacy": {
+                    "xlargewidth": "600",
+                    "xlarge": "images\/2015\/09\/20\/magazine\/20barbie1_opener-copy\/20barbie1_opener-articleLarge.jpg",
+                    "xlargeheight": "440"
+                },
+                "type": "image"
+            }, {
+                "width": 75,
+                "url": "images\/2015\/09\/20\/magazine\/20barbie1_opener-copy\/20barbie1_opener-thumbStandard.jpg",
+                "height": 75,
+                "subtype": "thumbnail",
+                "legacy": {
+                    "thumbnailheight": "75",
+                    "thumbnail": "images\/2015\/09\/20\/magazine\/20barbie1_opener-copy\/20barbie1_opener-thumbStandard.jpg",
+                    "thumbnailwidth": "75"
+                },
+                "type": "image"
+            }],
+            "headline": {
+                "main": "Hello Barbie, la mu\u00f1eca con inteligencia artificial",
+                "content_kicker": "Am\u00e9rica "
+            },
+            "keywords": [{
+                "rank": "1",
+                "is_major": "N",
+                "name": "subject",
+                "value": "Barbie (Doll)"
+            }, {
+                "rank": "2",
+                "is_major": "N",
+                "name": "subject",
+                "value": "Artificial Intelligence"
+            }, {
+                "rank": "3",
+                "is_major": "N",
+                "name": "organizations",
+                "value": "Mattel Inc"
+            }, {
+                "rank": "4",
+                "is_major": "N",
+                "name": "subject",
+                "value": "Women and Girls"
+            }, {
+                "rank": "5",
+                "is_major": "N",
+                "name": "organizations",
+                "value": "ToyTalk Inc"
+            }, {
+                "rank": "6",
+                "is_major": "N",
+                "name": "subject",
+                "value": "Toys"
+            }, {
+                "rank": "7",
+                "is_major": "N",
+                "name": "subject",
+                "value": "Robots and Robotics"
+            }],
+            "pub_date": "2015-09-20T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "Magazine",
+            "section_name": "Universal",
+            "subsection_name": "Am\u00e9rica",
+            "byline": {
+                "person": [{
+                    "firstname": "Por",
+                    "middlename": "James",
+                    "lastname": "VLAHOS",
+                    "rank": 1,
+                    "role": "reported",
+                    "organization": ""
+                }],
+                "original": "Por JAMES VLAHOS"
+            },
+            "type_of_material": "News",
+            "_id": "55fc58fa38f0d86e9cb60e05",
+            "word_count": "808",
+            "slideshow_credits": null
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/1991\/09\/08\/theater\/l-hello-dolly-an-earlier-incarnation-034991.html",
+            "snippet": "To the Editor:   I should like to add to Barry Wells's letter about Thornton Wilder and his comedy \"The Matchmaker,\" on which the musical \"Hello, Dolly!\" is based  [ \"The Original Merchant of Yonkers,\" Aug. 25 ] .",
+            "lead_paragraph": "To the Editor: I should like to add to Barry Wells's letter about Thornton Wilder and his comedy \"The Matchmaker,\" on which the musical \"Hello, Dolly!\" is based [ \"The Original Merchant of Yonkers,\" Aug. 25 ] .",
+            "abstract": null,
+            "print_page": "14",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [],
+            "headline": {
+                "main": "An Earlier Incarnation",
+                "kicker": "'HELLO, DOLLY!'"
+            },
+            "keywords": [{
+                "name": "creative_works",
+                "value": "HELLO, DOLLY (PLAY)"
+            }, {
+                "name": "persons",
+                "value": "SOLTERS, LEE"
+            }, {
+                "name": "subject",
+                "value": "THEATER"
+            }],
+            "pub_date": "1991-09-08T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "Arts & Leisure Desk",
+            "section_name": "Arts; Theater; Opinion",
+            "subsection_name": null,
+            "byline": null,
+            "type_of_material": "Letter",
+            "_id": "4fd1b0358eb7c8105d6d159c",
+            "word_count": 126,
+            "slideshow_credits": null
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/2015\/08\/21\/world\/asia\/laibach-concert-in-pyongyang-north-korea.html",
+            "snippet": "Laibach, a rock band from Slovenia, gave what was billed as the first live performance by a Western pop act in North Korea.",
+            "lead_paragraph": "Laibach, a rock band from Slovenia, gave what was billed as the first live performance by a Western pop act in North Korea.",
+            "abstract": null,
+            "print_page": null,
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [{
+                "width": 190,
+                "url": "images\/2015\/08\/21\/world\/21NorthKorea2-web\/21NorthKorea2-web-thumbWide.jpg",
+                "height": 126,
+                "subtype": "wide",
+                "legacy": {
+                    "wide": "images\/2015\/08\/21\/world\/21NorthKorea2-web\/21NorthKorea2-web-thumbWide.jpg",
+                    "wideheight": "126",
+                    "widewidth": "190"
+                },
+                "type": "image"
+            }, {
+                "width": 600,
+                "url": "images\/2015\/08\/21\/world\/21NorthKorea2-web\/21NorthKorea2-web-articleLarge.jpg",
+                "height": 400,
+                "subtype": "xlarge",
+                "legacy": {
+                    "xlargewidth": "600",
+                    "xlarge": "images\/2015\/08\/21\/world\/21NorthKorea2-web\/21NorthKorea2-web-articleLarge.jpg",
+                    "xlargeheight": "400"
+                },
+                "type": "image"
+            }, {
+                "width": 75,
+                "url": "images\/2015\/08\/21\/world\/21NorthKorea2-web\/21NorthKorea2-web-thumbStandard.jpg",
+                "height": 75,
+                "subtype": "thumbnail",
+                "legacy": {
+                    "thumbnailheight": "75",
+                    "thumbnail": "images\/2015\/08\/21\/world\/21NorthKorea2-web\/21NorthKorea2-web-thumbStandard.jpg",
+                    "thumbnailwidth": "75"
+                },
+                "type": "image"
+            }],
+            "headline": {
+                "main": "Hello, Pyongyang: Are. You. Ready. To. Rock."
+            },
+            "keywords": [{
+                "rank": "1",
+                "is_major": "N",
+                "name": "organizations",
+                "value": "Laibach"
+            }, {
+                "rank": "2",
+                "is_major": "N",
+                "name": "glocations",
+                "value": "Pyongyang (North Korea)"
+            }, {
+                "rank": "3",
+                "is_major": "N",
+                "name": "glocations",
+                "value": "Slovenia"
+            }, {
+                "rank": "4",
+                "is_major": "N",
+                "name": "subject",
+                "value": "Rock Music"
+            }, {
+                "rank": "5",
+                "is_major": "N",
+                "name": "persons",
+                "value": "Traavik, Morten"
+            }],
+            "pub_date": "2015-08-21T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "Foreign",
+            "section_name": "World",
+            "subsection_name": "Asia Pacific",
+            "byline": {
+                "contributor": "Choe Sang-Hun contributed reporting from Seoul, South Korea.",
+                "person": [{
+                    "organization": "",
+                    "role": "reported",
+                    "firstname": "Austin",
+                    "rank": 1,
+                    "lastname": "RAMZY"
+                }],
+                "original": "By AUSTIN RAMZY"
+            },
+            "type_of_material": "News",
+            "_id": "55d5bec038f0d84ac8725bff",
+            "word_count": "649",
+            "slideshow_credits": null
+        }, {
+            "web_url": "http:\/\/www.nytimes.com\/2003\/11\/08\/world\/world-briefing-europe-britain-smile-photos-are-still-worth-24220.html",
+            "snippet": "The High Court ordered the celebrity magazine Hello! to pay Michael Douglas and Catherine Zeta-Jones $24,220 in damages, far less than the $835,000 they had sought, for the publication of unauthorized photos of their wedding. The court also ordered...",
+            "lead_paragraph": "The High Court ordered the celebrity magazine Hello! to pay Michael Douglas and Catherine Zeta-Jones $24,220 in damages, far less than the $835,000 they had sought, for the publication of unauthorized photos of their wedding. The court also ordered Hello! to pay $1.7 million to a rival publication, OK!, which had an exclusive deal for pictures of the wedding, held at the Plaza Hotel in New York in November 2000. Judge John Lindsay did not find that Hello! had breached their privacy, saying that was not protected by British law. The couple said they were pleased with the decision. Hello! plans to appeal the award to OK!",
+            "abstract": "British High Court orders magazine Hello! to pay Michael Douglas and Catherine Zeta-Jones $24,220 in damages, far less than $835,000 they sought for publication of unauthorized wedding photos; court orders magazine to pay $1.7 million to rival OK!, which had exclusive photo rights; photo (S)",
+            "print_page": "8",
+            "blog": [],
+            "source": "AP",
+            "multimedia": [],
+            "headline": {
+                "main": "World Briefing | Europe: Britain: Smile! Photos Are Still Worth $24,220"
+            },
+            "keywords": [{
+                "name": "persons",
+                "value": "DOUGLAS, MICHAEL"
+            }, {
+                "name": "persons",
+                "value": "ZETA-JONES, CATHERINE"
+            }, {
+                "name": "glocations",
+                "value": "GREAT BRITAIN"
+            }, {
+                "name": "organizations",
+                "value": "HELLO!"
+            }, {
+                "name": "organizations",
+                "value": "OK!"
+            }, {
+                "name": "subject",
+                "value": "CELEBRITIES"
+            }, {
+                "name": "subject",
+                "value": "SUITS AND LITIGATION"
+            }, {
+                "name": "subject",
+                "value": "MAGAZINES"
+            }, {
+                "name": "subject",
+                "value": "PHOTOGRAPHY"
+            }, {
+                "name": "subject",
+                "value": "DECISIONS AND VERDICTS"
+            }, {
+                "name": "subject",
+                "value": "PRIVACY"
+            }],
+            "pub_date": "2003-11-08T00:00:00Z",
+            "document_type": "article",
+            "news_desk": "Foreign Desk",
+            "section_name": "World",
+            "subsection_name": null,
+            "byline": null,
+            "type_of_material": "News",
+            "_id": "4fd29b018eb7c8105d87a5f0",
+            "word_count": 107,
+            "slideshow_credits": null
+        }, {
+            "web_url": "http:\/\/query.nytimes.com\/gst\/abstract.html?res=9907EEDC173AE433A25756C2A9679C946696D6CF",
+            "snippet": "guest of honor at dinner given by H. A. Thomsen",
+            "lead_paragraph": null,
+            "abstract": "guest of honor at dinner given by H. A. Thomsen",
+            "print_page": "9",
+            "blog": [],
+            "source": "The New York Times",
+            "multimedia": [],
+            "headline": {
+                "main": "Marriage Announcement 2 -- No Title"
+            },
+            "keywords": [{
+                "name": "persons",
+                "value": "LOBO, HELLO"
+            }],
+            "pub_date": "1917-01-25T00:00:00Z",
+            "document_type": "article",
+            "news_desk": null,
+            "section_name": null,
+            "subsection_name": null,
+            "byline": null,
+            "type_of_material": "Marriage Announcement",
+            "_id": "4fc08bce45c1498b0d359deb",
+            "word_count": 371,
+            "slideshow_credits": null
+        }]
+    },
+    "status": "OK",
+    "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved."
+}
