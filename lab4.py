@@ -1,5 +1,5 @@
-import os, MySQLdb, urllib, urllib2, requests
-from flask import Flask, jsonify, abort, make_response, request
+import os, MySQLdb, urllib, urllib2
+from flask import Flask, jsonify, abort, make_response, request, requests
 from flask import render_template, json, url_for
 app = Flask(__name__, static_url_path='/static')
 
